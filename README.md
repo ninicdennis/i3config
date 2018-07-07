@@ -17,3 +17,6 @@ conky
 
 Feel free to modify and use this as you please, should work with other laptops as well, but was mostly designed for an X220.   
 Thank you!
+
+# Images
+![x220new](https://user-images.githubusercontent.com/40923967/42414845-3074328e-81fc-11e8-8440-0bc7e1875f52.jpg)

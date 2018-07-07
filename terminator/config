@@ -1,0 +1,26 @@
+[global_config]
+  title_inactive_bg_color = "#99676b"
+  title_inactive_fg_color = "#db949a"
+  title_transmit_bg_color = "#090a14"
+  title_transmit_fg_color = "#db949a"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      profile = default
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#090a14"
+    cursor_color = "#db949a"
+    font = Tamzen 12
+    foreground_color = "#db949a"
+    palette = "#090a14:#563041:#683c45:#743541:#8f313b:#8b3342:#ae3344:#db949a:#99676b:#563041:#683c45:#743541:#8f313b:#8b3342:#ae3344:#db949a"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False

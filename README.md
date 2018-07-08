@@ -30,7 +30,7 @@ Move colors-rofi-dark.rasi to wherever you like.
 
 in ~/.config/rofi/config write:   
 
-> rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+> rofi.theme: ~/path/to/colors-rofi-dark.rasi
 
 
 # Images

@@ -8,11 +8,12 @@ This config was made for an X220 laptop, using arch.
 
 # Dependancies
 i3-gaps   
-i3lock-fancy-git   
-nitrogen   
+i3lock-fancy-git (pretty locking)   
+nitrogen (for wallpaper)   
 rofi   
-terminator   
+terminator (or whichever terminal you prefer)   
 conky   
+tamsyn-font   
 
 
 Feel free to modify and use this as you please, should work with other laptops as well, but was mostly designed for an X220.   
